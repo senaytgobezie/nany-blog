@@ -1,0 +1,14 @@
+{
+    "blogs":[
+        { 
+            "title": "My new website",
+             "body": "lorem ipsum...", 
+             "author": "nany", 
+             "id": 1 },
+    { 
+    "title": "Welcome party!",
+     "body": "lorem ipsum...", 
+     "author": "kali", 
+     "id": 2 }
+    ]
+}
